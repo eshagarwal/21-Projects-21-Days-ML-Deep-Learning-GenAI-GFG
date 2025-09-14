@@ -39,3 +39,6 @@ This project analyzes the Titanic dataset to uncover factors influencing passeng
 ## References 🔗
 - [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
 - [ydata-profiling Documentation](https://docs.ydata.ai/docs/profiling/)
+
+----
+**Day 1** | GeeksForGeeks 21 Projects Challenge | Intro to Data Analysis

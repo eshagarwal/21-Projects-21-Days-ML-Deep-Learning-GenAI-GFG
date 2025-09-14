@@ -55,3 +55,6 @@ This project provides an in-depth exploratory data analysis of the Netflix title
 - [Netflix Titles Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - [WordCloud Documentation](https://github.com/amueller/word_cloud)
 - [Plotly Documentation](https://plotly.com/python/)
+
+----
+**Day 2** | GeeksForGeeks 21 Projects Challenge | Exploratory Data Analysis

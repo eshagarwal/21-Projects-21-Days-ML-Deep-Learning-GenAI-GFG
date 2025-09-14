@@ -42,3 +42,6 @@ This project builds a machine learning model to predict heart disease using medi
 ## References 🔗
 - [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/)
+
+----
+**Day 4** | GeeksForGeeks 21 Projects Challenge | Binary Clasification

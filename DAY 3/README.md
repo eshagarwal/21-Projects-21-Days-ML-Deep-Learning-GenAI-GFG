@@ -46,3 +46,6 @@ This project builds a regression model to predict house sale prices using a rich
 ## References 🔗
 - [Kaggle House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 - [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/)
+
+----
+**Day 3** | GeeksForGeeks 21 Projects Challenge | Regression
